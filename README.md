@@ -1,4 +1,4 @@
-# Heart Disease Data Cleaning & Visualization
+# Heart Disease Prediction
 
 ## Task 1 — Data Cleaning & Visualization
 
@@ -19,3 +19,21 @@
 - heart_disease_raw.csv — original messy data
 - heart_disease_clean.csv — cleaned data
 - notebook.ipynb — full code
+
+## Task 2 — Predictive Modeling Using ML
+
+### What I Did
+- Loaded cleaned heart disease dataset
+- Applied 3 ML algorithms:
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+- Compared accuracy of all 3 models
+- Visualized Confusion Matrix
+- Plotted ROC Curve for all models
+
+### Libraries Used
+- Scikit-learn, Pandas, Matplotlib, Seaborn
+
+### Files
+- Task2_ML_Prediction.ipynb — full ML code
