@@ -37,3 +37,16 @@
 
 ### Files
 - Task2_ML_Prediction.ipynb — full ML code
+
+- Task 3 — Exploratory Data Analysis (EDA)
+
+### What I Did
+- Statistical summary of all features
+- Distribution analysis (age, cholesterol, blood pressure)
+- Correlation heatmap
+- Key influencing factors analysis
+- Gender & Age group analysis
+- Structured insights report
+
+### Libraries Used
+- Pandas, NumPy, Matplotlib, Seaborn
