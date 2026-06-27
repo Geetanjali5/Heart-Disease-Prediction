@@ -1,4 +1,3 @@
-# Heart-Disease-Prediction
 # Heart Disease Data Cleaning & Visualization
 
 ## Task 1 — Data Cleaning & Visualization
